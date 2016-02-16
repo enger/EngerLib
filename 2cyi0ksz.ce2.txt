@@ -1,0 +1,64 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   DataRevSave/DataRevSave.sln
+#	new file:   DataRevSave/DataRevSave.vcxproj
+#	new file:   DataRevSave/DataRevSave.vcxproj.filters
+#	new file:   "DataRevSave/DataRevTrans - \345\211\257\346\234\254.vcxproj"
+#	new file:   DataRevSave/DataRevTrans.cpp
+#	new file:   DataRevSave/DataRevTrans.h
+#	new file:   DataRevSave/DataRevTrans.rc
+#	new file:   "DataRevSave/DataRevTrans.vcxproj - \345\211\257\346\234\254.filters"
+#	new file:   DataRevSave/DataRevTransDlg.cpp
+#	new file:   DataRevSave/DataRevTransDlg.h
+#	new file:   DataRevSave/DlgCityState.cpp
+#	new file:   DataRevSave/DlgCityState.h
+#	new file:   DataRevSave/DlgModelDetail.cpp
+#	new file:   DataRevSave/DlgModelDetail.h
+#	new file:   DataRevSave/DlgModelManage.cpp
+#	new file:   DataRevSave/DlgModelManage.h
+#	new file:   DataRevSave/ReadMe.txt
+#	new file:   DataRevSave/res/DataRevTrans.ico
+#	new file:   DataRevSave/res/DataRevTrans.rc2
+#	new file:   DataRevSave/resource.h
+#	new file:   DataRevSave/stdafx.cpp
+#	new file:   DataRevSave/stdafx.h
+#	new file:   DataRevSave/targetver.h
+#	new file:   src.7z
+#
+# Untracked files:
+#	DataRevTrans/
+#	EngerLib.sln
+#	TestMFC/
+#	TrayIocn/
+#	buffer/
+#	dataanshan/
+#	dataformate/
+#	datakldcs/
+#	dataparser/
+#	datarouter/
+#	datarouterZIP/
+#	datasaver/
+#	datashell/
+#	datashenyang/
+#	datatrancer/
+#	dataunzip/
+#	include.7z
+#	include/
+#	mysqldriver/
+#	promanager/
+#	soket/
+#	src/
+#	state/
+#	statistics/
+#	stddata/
+#	sydata/
+#	test/
+#	utilfunc/
+#	zipdata/
+#
+
